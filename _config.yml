@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : The Saltwater Room
+tagline: Maybe I'm Dreaming
 author :
   name : Kuroba Wang
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  email : jolinsen@gmail.com
+  github : pocketcap
+  twitter : kuroba99
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -80,13 +80,13 @@ JB :
   #
   comments :
     provider : disqus
-    disqus :
-      short_name : jekyllbootstrap
+    disqus : pocketcap
+      short_name : thesaltwaterroom
     livefyre :
       site_id : 123
     intensedebate :
       account : 123abc
-    facebook :
+    facebook : 
       appid : 123
       num_posts: 5
       width: 580
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-29677057-1'
     getclicky :
       site_id : 
     mixpanel :
