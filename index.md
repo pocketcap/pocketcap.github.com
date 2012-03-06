@@ -1,13 +1,14 @@
 ---
 layout: page
 title: The Saltwater Room
-tagline: Supporting tagline
+tagline: maybe I'm dreaming...
 ---
 {% include JB/setup %}
 
 
 
-## Update Author Attributes
+## pocketcap 
+[@kuroba99](http://twitter.com/kuroba99 "twitter")
 
 ![alt text](http://pic.yupoo.com/kuroba99/BNlnIn8S/medish.jpg "pocketcap")
 
