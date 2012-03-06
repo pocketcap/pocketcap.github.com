@@ -1,30 +1,19 @@
 ---
 layout: page
-title: Hello World!
+title: The Saltwater Room
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes
 
-In `_config.yml` remember to specify your own data:
-    
-    http://ww3.sinaimg.cn/large/62c6766djw1dqp9icy7rnj.jpg
-    
-The theme should reference these variables whenever needed.
+![alt text](http://pic.yupoo.com/kuroba99/BNlnIn8S/medish.jpg "pocketcap")
+
     
 ## Recent Posts
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
