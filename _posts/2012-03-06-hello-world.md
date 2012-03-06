@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
-category: 
-tags: []
+category: murmur
+tags: [murmur]
 ---
 {% include JB/setup %}
