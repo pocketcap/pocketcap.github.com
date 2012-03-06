@@ -80,7 +80,7 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : pocketcap
+    disqus : 
       short_name : thesaltwaterroom
     livefyre :
       site_id : 123
