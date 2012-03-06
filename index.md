@@ -8,7 +8,6 @@ tagline: maybe I'm dreaming...
 
 
 ## pocketcap 
-[@kuroba99](http://twitter.com/kuroba99 "twitter")
 
 ![alt text](http://pic.yupoo.com/kuroba99/BNlnIn8S/medish.jpg "pocketcap")
 
